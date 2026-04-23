@@ -1,0 +1,2 @@
+# Hostel-Dues-Management-System-with-Automated-email-response
+This project is a Python-based system designed to manage hostel fee records and automate the process of issuing No-Dues certificates. It connects to a MySQL database to fetch student details, calculates pending dues, and determines whether a student is eligible for clearance. If all dues are cleared, the system can automatically send a confirmation
